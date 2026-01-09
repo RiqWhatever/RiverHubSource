@@ -209,7 +209,7 @@ task.spawn(function()
     end
 end)
 
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/fUMMY2Kz"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RiqWhatever/RiverHubSource/refs/heads/main/UI/ui.lua"))()
 
 local main = Library.new()
 
